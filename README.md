@@ -19,7 +19,8 @@ Automatic writing machine is a CNC machine
 9. SC8UU - 8 Nos
 10. Smooth rod - 4 Nos
 11. Hollow aluminum rod - 3.5 Meters
-12. L Clamp - 12
+12. L Clamp - 12 Nos
+13. Arduino UNO - 1 No
 
 ### Shopping Links
 
@@ -32,6 +33,8 @@ Use 'ZENOOFF2020' as coupon code.
 3. GRBL controller - [Tomson Electronics](https://www.tomsonelectronics.com/products/buy-cnc-shield-v3-0-online-india?_pos=1&_sid=28ceda3e6&_ss=r)
 4. Digital Servo Motor - [Tomson Electronics](https://www.tomsonelectronics.com/products/mg996r-digital-servo-motor?_pos=1&_sid=9771fbc69&_ss=r)
 5. SC8UU - [Tomson Electronics](https://www.tomsonelectronics.com/products/sc8uu-8mm-linear-ball-bearing-slide-unit-for-cnc-3d-printer?_pos=1&_sid=580f07d8e&_ss=r)
+6. Arduino UNO (Original) - [Arduino UNO Original](https://www.tomsonelectronics.com/products/buy-arduino-uno-rev-3-online-india?_pos=5&_sid=40eb6d1ed&_ss=r)
+7. Arduino UNO (Clone) - [Arduino UNO Clone](https://www.tomsonelectronics.com/products/buy-arduino-uno-name-online-india?_pos=1&_sid=40eb6d1ed&_ss=r)
 
 ### Robu
 
