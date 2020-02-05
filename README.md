@@ -49,4 +49,4 @@ Use 'ZENOOFF2020' as coupon code.
 
 ## Dimensions
 
-![Dimensions](https://github.com/sashuu6/automatic-writing-machine/blob/master/documentation/images/body%20dimensions.jpg)
+![Dimensions](documentation/images/body%20dimensions.jpg)
