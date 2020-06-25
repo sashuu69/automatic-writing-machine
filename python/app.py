@@ -6,7 +6,7 @@ filesLocation = "/tmp"
 runCurrentLoc = os.getcwd()
 
 
-@app.route('/', methods=["POST"])
+@app.route('/', methods=["GET", "POST"])
 def homepage():
     if request.method == "POST":
         if request.files["image-file"]:
@@ -22,7 +22,7 @@ def homepage():
             print(output)
             return "Done"
     else:
-        return "Send POST request"
+        return "INVALID Method"
 
 
 def main():
