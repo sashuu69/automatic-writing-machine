@@ -50,3 +50,5 @@ Use 'ZENOOFF2020' as coupon code.
 ## Dimensions
 
 ![Dimensions](documentation/images/body%20dimensions.jpg)
+
+sudo apt-get install libatlas-base-dev
