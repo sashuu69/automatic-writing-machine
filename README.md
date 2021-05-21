@@ -81,4 +81,4 @@ Example:
 ./gcode-cli file.gcode /dev/ttyACM0,b115200
 ```
 ## Link
-![Instagram](https://www.instagram.com/p/CB3QecQp9-C/)
+[Instagram](https://www.instagram.com/p/CB3QecQp9-C/)
